@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "gradescope2notion"
+    },
+    "appShortName": {
+        "message": "gradescope2notion"
+    },
+    "appDescription": {
+        "message": "Imports gradescope assignments as notion tasks"
+    }
+}
